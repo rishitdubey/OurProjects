@@ -1,0 +1,11 @@
+@import 'tailwindcss';
+
+/* @theme{
+    --color-blue-333446: #333446;
+} */
+
+@theme{
+  --color-blueBG: #333446;
+  --color-yellowText: #FFC400;
+  --font-amatic: "Amatic", "SC"
+}
